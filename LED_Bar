@@ -1,0 +1,34 @@
+#include <Grove_LED_Bar.h>
+
+
+const int TouchPin=2;
+const int ledPin=13;
+const int ledBar=8;
+Grove_LED_Bar bar(6,5,0);
+
+
+void setup() {
+  bar.begin();
+  pinMode(TouchPin,INPUT);
+  pinMode(ledPin,OUTPUT);
+}
+
+
+void loop() {
+  int sensorValue = digitalRead(TouchPin);
+
+
+  if(sensorValue==1){
+  int i=rand()%10 +1;
+   {
+    bar.setLevel(i);
+    delay(150);
+   }
+  }
+
+
+  if(sensorValue==0){
+  digitalWrite(ledPin,HIGH);
+  bar.setLevel(0);
+  }
+}
