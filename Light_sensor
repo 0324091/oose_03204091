@@ -1,0 +1,20 @@
+#include <Grove_LED_Bar.h>
+int analogPin =0 ;     // potentiometer wiper (middle terminal) connected to analog pin 3
+                       // outside leads to ground and +5V
+int val = 0;           // variable to store the value read
+
+Grove_LED_Bar bar(6,5,0);
+
+void setup(){
+  bar.begin();
+  pinMode(13,OUTPUT);
+  Serial.begin(9600);          //  setup serial
+}
+
+void loop()
+{
+  val = analogRead(A0);    // read the input pin
+  Serial.println(val);             // debug value
+  bar.setLevel(val/40);
+  delay(300);
+}
