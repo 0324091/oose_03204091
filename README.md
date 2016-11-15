@@ -9,4 +9,7 @@
 ![流程圖](http://i.imgur.com/ONSneXw.png)
 
 使用個案圖↓
-![個案圖](http://imgur.com/5mJ2buH.png)
+![個案圖](http://imgur.com/a/cJIXp.png)
+
+活動圖↓
+![活動圖](.png)
