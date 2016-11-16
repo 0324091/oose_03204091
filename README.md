@@ -23,4 +23,4 @@
 [範例](http://imgur.com/RoHXJya.png)
 
 會員登入使用個案之強韌圖↓
-![會員登入使用個案之強韌圖](http://imgur.com/bbvuuPl.png)
+![會員登入使用個案之強韌圖](http://imgur.com/9NIpagp.png)
