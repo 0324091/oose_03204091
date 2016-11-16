@@ -14,4 +14,4 @@
 活動圖↓
 ![活動圖](http://imgur.com/FSYEVX2.png)
 
-!(http://imgur.com/WPOqH1u.png)
+![](http://imgur.com/WPOqH1u.)
