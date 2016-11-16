@@ -13,3 +13,6 @@
 
 活動圖↓
 ![活動圖](http://imgur.com/FSYEVX2.png)
+
+/*強韌圖之基礎物件圖
+![基礎物件圖](http://imgur.com/WPOqH1u.png)*/
