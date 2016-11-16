@@ -12,4 +12,4 @@
 ![個案圖](http://imgur.com/DWaOoUs.png)
 
 活動圖↓
-![活動圖](.png)
+![活動圖](http://imgur.com/FSYEVX2.png)
