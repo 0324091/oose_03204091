@@ -14,4 +14,8 @@
 活動圖↓
 ![活動圖](http://imgur.com/FSYEVX2.png)
 
-![](http://imgur.com/WPOqH1u.png)
+
+(http://imgur.com/RoHXJya.)
+
+會員登入使用個案之強韌圖↓
+![會員登入使用個案之強韌圖](http://imgur.com/bbvuuPl.png)
