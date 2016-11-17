@@ -17,7 +17,7 @@
 
 
 活動圖↓
-![活動圖](http://imgur.com/FSYEVX2.png)
+![活動圖](http://imgur.com/yCNkeQt.png)
 
 
 [範例](http://imgur.com/RoHXJya.png)
