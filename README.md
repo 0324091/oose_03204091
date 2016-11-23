@@ -18,8 +18,8 @@
 
 活動圖↓
 ![活動圖](http://imgur.com/yCNkeQt.png)
-![活動圖](http://imgur.com/1PfP8QW.png)
+![活動圖]()
 
 會員登入使用個案之強韌圖↓
 ![會員登入使用個案之強韌圖](http://imgur.com/9NIpagp.png)
-![強韌圖](.png)
+![強韌圖](http://imgur.com/1PfP8QW.png.png)
