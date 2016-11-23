@@ -14,7 +14,6 @@
 
 
 使用個案圖→
-![個案圖](http://imgur.com/DWaOoUs.png)
 ![個案圖](http://imgur.com/3RvHgv3.png)
 
 
