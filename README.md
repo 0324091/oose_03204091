@@ -24,3 +24,5 @@
 會員登入使用個案之強韌圖↓
 ![會員登入使用個案之強韌圖](http://imgur.com/9NIpagp.png)
 ![強韌圖](http://imgur.com/1PfP8QW.png.png)
+
+![循序圖](http://imgur.com/JB6hMVO.png)
